@@ -21,6 +21,8 @@ Dette er et nettkurs, som holdes via Zoom. Det er lurt å ha installert Zoom på
 
 Om du møter på problemer med å installere programvaren på forhånd kan du sende [meg](https://www.simula.no/people/jonas) en mail før kursstart, så skal jeg prøve å hjelpe deg.
 
+**Om du har mulighet for å følge kurset fra en PC med to skjermer er dette til stor hjelp, så du kan ha zoom på en skjerm og en tekst-editor på den andre, slik at du kan prøve deg frem etterhvert som kurset går.**
+
 ## Materiale
 
 ### Kompendium og jukselapp
