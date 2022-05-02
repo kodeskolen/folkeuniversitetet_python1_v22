@@ -3,7 +3,6 @@
 Nå kan du det mest grunnleggende innen Python-programmering og du kan faktisk løse utrolig mange problem kun med de konseptene du lærte i kurset. Det finnes mange gode ressurser for egenlæring der ute, men det kan være vanskelig å vite hvor man skal starte. Derfor har vi samlet noen guider vi synes er gode og sortert dem etter hva du ønsker å gå videre med.
 
 
-
 Noen av disse guidene bruker funksjonalitet som ikke følger med Anaconda. Da står det gjerne at du skal starte opp et terminalvindu og skrive `pip install PAKKENAVN`. Hvis du skal gjøre dette med Windows, så starter du opp programmet *Anaconda Prompt* og skriver kommandoene inn der.
 
 
