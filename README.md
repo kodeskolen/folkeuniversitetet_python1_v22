@@ -39,8 +39,7 @@ Programmering, som så mye annet, læres best av å *gjøres*. I løpet av kurse
 
 Oppgavene er delt inn på de to hoveddagene:
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
-
-
+* Løsningsforslag for oppgavene til dag 1 finner du [her](dag1/løsningsforslag_oppgaver_dag_1.pdf)
 
 ## Ekstra Ressurser:
 
