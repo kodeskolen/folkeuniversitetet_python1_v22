@@ -40,6 +40,21 @@ Programmering, som så mye annet, læres best av å *gjøres*. I løpet av kurse
 Oppgavene er delt inn på de to hoveddagene:
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
 * Løsningsforslag for oppgavene til dag 1 finner du [her](dag1/loesningsforslag_oppgaver_dag_1.pdf)
+* Oppgaver for dag 2 finner du [her](dag1/oppgaver_dag2.pdf)
+* Løsningsforslag for oppgavene ti ldag 2 finner du [her](dag2/loesningsforslag_oppgaver_dag_2.pdf)
+* Et hefte med bonusoppgaver finner du [her](dag2/bonusoppgaver.pdf)
+
+Om du ønsker enda flere oppgaver å bryne deg på kan vi anbefale følgende nettsider:
+* https://www.codewars.com/
+* https://projecteuler.net/
+* https://oppgaver.kidsakoder.no/python/
+
+CodeWars er en nettside der du løser programmeringsoppgaver rett i nettleseren. Siden støtter mange programmeringsspråk, inkludert Python, og prøver å automatisk tilpasse oppgavene ditt ferdighetsnivå. Du må lage en (gratis) bruker for å bruke nettsiden.
+
+Project Euler er en samling matematikk-nøtter som er spesielt laget for å løses effektivt med programmering. Det er en veldig fin nettside om du er glad i matematikk og vil lære mer programmering. Du kan lese oppgavene uten bruker, men du må lage en (gratis) bruker for å sjekke fasiten og holde styr på hvilke oppgaver du har løst.
+
+Lær Kidsa Koding (kidsakoder.no) er en norsk nettside som er laget og drevet av frivillige. Oppgavene er utviklet på norsk og delt inn på ulike vansklighetsgrader. Passer perfekt for de som vil lære seg mer Python, eller bare leke seg med programmering. Du kan lese oppgavene uten å lage noen bruker.
+
 
 ## Ekstra Ressurser:
 
